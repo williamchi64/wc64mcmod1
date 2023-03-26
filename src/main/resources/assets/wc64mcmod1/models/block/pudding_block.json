@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "wc64mcmod1:block/pudding_block"
+  }
+}
